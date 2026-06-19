@@ -64,18 +64,18 @@ This is where the real story is — sales volume and profit don't always move to
 
 ## How I Built It
 
-1. **Data Cleaning** — Loaded the raw CSV into Power Query, fixed date formats, checked for nulls and duplicates
-2. **Data Modeling** — Built DAX measures for Total Sales, Total Profit, Profit Margin, Average Discount, and Order Count
-3. **Dashboard Design** — Built all 3 pages with a consistent color system, KPI cards, and interactive slicers (Region, Segment, Category)
-4. **Insight-First Approach** — Every visual was chosen to answer a specific business question, not just to "show data"
+1. **Data Cleaning** : Loaded the raw CSV into Power Query, fixed date formats, checked for nulls and duplicates
+2. **Data Modeling** : Built DAX measures for Total Sales, Total Profit, Profit Margin, Average Discount, and Order Count
+3. **Dashboard Design** : Built all 3 pages with a consistent color system, KPI cards, and interactive slicers (Region, Segment, Category)
+4. **Insight-First Approach** : Every visual was chosen to answer a specific business question, not just to "show data"
 
 ---
 
 ## Tools Used
 
-- **Power BI Desktop** — dashboard build, DAX measures, data modeling
-- **Power Query** — data cleaning and transformation
-- **Excel** — initial data exploration
+- **Power BI Desktop** : dashboard build, DAX measures, data modeling
+- **Power Query** : data cleaning and transformation
+- **Excel** : initial data exploration
 
 ---
 
@@ -100,7 +100,7 @@ The Superstore dataset is a widely-used retail dataset containing order-level tr
 
 **Roshan Kumar**
 BCA Student (9.2 CGPA) | Aspiring Data Analyst / Business Analyst
-Founder of [PublicGermany](https://github.com/rooshankumar) — a self-built admissions platform managing 105+ students
+Founder of [PublicGermany](https://publicgermany.vercel.app) — a self-built admissions platform managing 105+ students
 
  isthisroshan@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/rooshaankumar) · [GitHub](https://github.com/rooshankumar) · [Portfolio](https://rooshankumar.netlify.app)
+[LinkedIn](https://linkedin.com/in/rooshaankumar) · [GitHub](https://github.com/rooshankumar) · [Portfolio](https://rooshankumar.netlify.app)
